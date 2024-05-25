@@ -18,7 +18,7 @@ const Movie: React.FC = () => {
             style={{ position: 'absolute', top: 0, left: 0 }}
           ></iframe>
         </div>
-        ef
+
       </header>
     </div>
   );
